@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Duke",
+        "age": 18,
+        "gender": "M",
+        "phones": {
+            "home": "650-123-4567",
+            "mobile": "650-234-5678"
+        }
+    },
+    {
+        "name": "Anna",
+        "age": 23,
+        "gender": "F",
+        "phones": {
+            "mobile": "707-999-5555"
+        }
+    },
+    {
+        "name": "Jane",
+        "gender": "F",
+        "phones": {
+            "mobile": "505-333-4444"
+        }
+    }
+]
